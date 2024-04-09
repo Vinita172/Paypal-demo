@@ -32,10 +32,13 @@ Two methods to run project:-
     git clone https://github.com/yourusername/paypal-homepage.git
  2. Navigate into the project directory:
     cd paypal-homepage
+    
  3.Install dependencies:
    npm install
+   
  4.Start the development server:
    npm start
+   
  5.Open your browser and navigate to http://localhost:3000 to view the PayPal page.
 
 
