@@ -28,8 +28,10 @@ Two methods to run project:-
  6. The development server will start and the project will be available at http://localhost:3000 in your web browser.
 
  ## Second Method:-
+ 
  1. Clone the repository to your local machine:
     git clone https://github.com/yourusername/paypal-homepage.git
+    
  2. Navigate into the project directory:
     cd paypal-homepage
     
