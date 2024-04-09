@@ -7,7 +7,9 @@ This repository contains the code for building a Paypal page using HTML, ReactJs
 ## Technologies Used:-
 The following technologies and tools were used in the development of this website:
 -Html
+
 -ReactJs
+
 -Tailwind Css
 
 ## Prerequisites
