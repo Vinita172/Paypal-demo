@@ -35,9 +35,9 @@ Two methods to run project:-
  2. Navigate into the project directory:
     cd paypal-homepage
     
- 3.Install dependencies:
+3.Install dependencies:
    npm install
-   
+  
  4.Start the development server:
    npm start
    
